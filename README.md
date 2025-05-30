@@ -1,1 +1,1 @@
-# Tensegrity-Linearization
+# Tensegrity Linearization
